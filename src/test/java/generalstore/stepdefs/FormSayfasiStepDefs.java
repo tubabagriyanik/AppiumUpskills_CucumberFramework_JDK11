@@ -2,7 +2,8 @@ package generalstore.stepdefs;
 
 import generalstore.pages.FormSayfasi;
 import io.appium.java_client.AppiumBy;
-import io.cucumber.java.en.*;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import org.junit.Assert;
 
 import static generalstore.utils.Driver.driver;
